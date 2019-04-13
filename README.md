@@ -1,5 +1,5 @@
 ### world_university_rankings
-Created Plotly graphs on The Times Higher Education World University Rankings in Python.
+Created different Plotly graphs on The Times Higher Education World University Rankings in Python.
 
 #### Source of dataset
 https://raw.githubusercontent.com/arnaudbenard/university-ranking/master/timesData.csv
@@ -9,10 +9,12 @@ Create data visualization on the world's university rankings by using Plotly tut
 (https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners/notebook)
 
 #### Introduction
-The dataset contains information about university name, country, world rank, research, teaching, total score, number of students, year, etc.
+The dataset contains information about university name, country, world rank, research, teaching, total score, number of students, year, etc. Different plotly graphs including line chart, scatter plot, bar graph, pie chart, bubble chart, histogram, box plot, scatter plot matrix, 3d scatter plot as well as word cloud were created by using DATAI's tutorial on Kaggle.
 
 #### Prerequisite
 Python / Jupyter Notebook
 
 #### Author
 Lee Ping Tay
+
+
