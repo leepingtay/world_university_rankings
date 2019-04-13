@@ -17,4 +17,6 @@ Python / Jupyter Notebook
 #### Author
 Lee Ping Tay
 
+#### Credits
+[Plotly Tutorial for Beginners](https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginners/notebook)
 
