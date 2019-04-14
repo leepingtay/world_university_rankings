@@ -1,4 +1,4 @@
-### world_university_rankings
+### World University Rankings
 Created different Plotly graphs on The Times Higher Education World University Rankings in Python.
 
 #### Source of dataset
